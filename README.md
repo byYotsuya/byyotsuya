@@ -3,8 +3,8 @@
 ### A little more about me... 🚀
 ```js
 const miguel = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Styled-Components, Angular]
+  code: [Javascript, Typescript, CSS, Dart],
+  tools: [React, Node, Styled-Components, Angular, Flutter, Android]
 }
 ```
 
