@@ -4,7 +4,7 @@
 ```js
 const miguel = {
   code: [Javascript, Typescript, CSS, Dart],
-  tools: [React, Node, Styled-Components, Angular, Flutter, Android]
+  tools: [React, Styled-Components, Angular]
 }
 ```
 
