@@ -15,5 +15,8 @@ const miguel = {
 [![Twitter Badge](https://img.shields.io/badge/-msolork-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/msolork)](https://twitter.com/msolork)
 
 
-[![Msolork's GitHub stats](https://github-readme-stats.vercel.app/api?username=msolork&show_icons=true&theme=gotham)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msolork&layout&compact)]
+
+[![Msolork's GitHub stats](https://github-readme-stats.vercel.app/api?username=msolork&show_icons=true&theme=gotham)]
+
+
