@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msolork&label=Profile%20views&color=0e75b6&style=flat" alt="msolork" /> </p>
 
-- 👨‍💻 All of my projects are available at [bigdeal.vercel.app](bigdeal.vercel.app)
-
-- 📝 I regularly write articles on [bigdeal.vercel.app](bigdeal.vercel.app)
-
 - 💬 Ask me about **react, java, spring**
 
 <h3 align="left">Connect with me:</h3>
